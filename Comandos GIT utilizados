@@ -1,0 +1,11 @@
+Comandos GIT utilizados
+
+sobre la carpeta del repositorio local Abro la consola de comando Git Bash Here e ingreso los siguientes comandos para subir cambios a gitHub
+git init
+git remote add origin https://github.com/jdyepes1039/RetoBanitsmo001.git
+Consultar conexiones establecidas
+git remote -v
+git add .
+git commit -m "version 1.0"
+Actualizar el repositorio remoto
+git push origin main
