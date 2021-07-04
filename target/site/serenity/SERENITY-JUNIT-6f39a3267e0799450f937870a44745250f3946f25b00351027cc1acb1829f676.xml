@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Challenge Banitsmo" skipped="0" tests="1" time="32.83" timestamp="2021-07-01 03:04:14"><testcase name="Open the file pdf of banitsmo"><error message="Expected condition failed: waiting for By.id: //*[@id=&quot;title&quot;] to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'&#10;System info: host: 'CHMEPPF0FNML44', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'&#10;Driver info: driver.version: unknown" type="java.lang.AssertionError">Expected condition failed: waiting for By.id: //*[@id="title"] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0FNML44', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for By.id: //*[@id="title"] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0FNML44', ip: '192.168.1.75', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown&#13;
+co.com.choucair.certificacion.proyectobase.stepdefinitions.banitsmoRetoStepDefinition.heShoulVerifyThePdfDocument(banitsmoRetoStepDefinition.java:37)&#13;
+✽.he shoul verify the pdf document(src/test/resources/features/retoBanitsmo.feature:9)&#13;
+</system-err></testcase></testsuite>
